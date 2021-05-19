@@ -1,0 +1,4 @@
+- Múltiplos filtros
+- Gerar pdf com gráfico, tabela e assinatura
+- Confirmação de cadastro de nova entrada
+
